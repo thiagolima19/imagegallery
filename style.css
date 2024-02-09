@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: rgb(70, 70, 70);
+  text-align: center;
+}
+img {
+  height: 90vh;
+  border: 1px solid #ffffff;
+  margin-top: 10px;
+}
+.galleryImg {
+  height: 90vh;
+  margin: 0 auto;
+}
+.navigation {
+  display: inline-block;
+}
+button {
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  color: white;
+  background: rgb(70, 70, 70);
+  width: 100px;
+  margin-top: 15px;
+  text-align: center;
+  font-size: 30px;
+  cursor: pointer;
+}
